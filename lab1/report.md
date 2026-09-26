@@ -1,3 +1,4 @@
+```
 #REPORT_Lab_1
 ##2.1. Перемещение по файловой системе
 ###2.1.2 -> whoai -> pwd
@@ -55,3 +56,4 @@
 ###2.5.16 -> find /usr/bin -type f -atime +90 2>/dev/null
 ###2.5.17 -> find /usr/bin /usr/share -type f -mtime -10 2>/dev/null
 ###2.5.18 -> find /tmp -type f -mtime +14 -delete 2>/dev/null
+```
